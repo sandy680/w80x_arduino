@@ -36,7 +36,7 @@ w806为[联盛德](http://www.winnermicro.com/)公司推出一款基于平头哥
 
 2、在附加开发板管理器网址输入如下网址：
 
-> https://cdn.jsdelivr.net/gh/Hi-LinkDuino/w80x_arduino/package_w80x_proxy_index.json
+> https://github.com/sandy680/w80x_arduino/blob/main/package_w80x_proxy_index.json
 
 ![](./doc/option_zh.png)
 
